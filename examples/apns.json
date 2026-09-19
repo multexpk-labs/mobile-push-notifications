@@ -1,0 +1,11 @@
+{
+  "provider": "apns",
+  "device_token": "SYNTHETIC_APNS_TOKEN",
+  "aps": {
+    "alert": {
+      "title": "Example",
+      "body": "Synthetic APNs message"
+    },
+    "sound": "default"
+  }
+}
