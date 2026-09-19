@@ -1,0 +1,9 @@
+{
+  "provider": "fcm",
+  "token": "SYNTHETIC_FCM_TOKEN",
+  "notification": {
+    "title": "Example",
+    "body": "Synthetic FCM message"
+  },
+  "data": {"type": "demo", "id": "123"}
+}
